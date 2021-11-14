@@ -29,8 +29,8 @@
 
    可选但不限于：
 
-   1. TODOLIST
-   2. 淘宝购物车
-   3. 微博评论，发布
+   1. [TODOLIST](http://todost.quentincolus.com/)  或者别的好看的样式的TodoList，又或者你手机里便签的样式的TodoList，体现UI美观  
+   2. 淘宝购物车，这个直接去看淘宝
+   3. 微博评论，发布，这个就类似QQ空间的评论功能
 3. 注意，你需要使用相对路径在你的代码中
 4. IMPORTANT！ YOU MUST USE GITHUB TO COMMIT YOU HOMEWORK BEFORE 11.27
